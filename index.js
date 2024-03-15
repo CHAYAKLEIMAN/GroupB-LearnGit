@@ -1,5 +1,7 @@
 let b ="kkk"
-
+function f4(){
+    
+}
 function f()
 {
     console.log("michal mazuz")
