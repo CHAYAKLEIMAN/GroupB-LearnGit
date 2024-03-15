@@ -1,3 +1,9 @@
+
+
+function func(){
+    let b ="kkk"
+}
+
 let b ="kkk"
 function f4(){
     
@@ -12,3 +18,4 @@ function f2(){
    console.log("elisheva")
 }
 arr=[1,2,3]
+
