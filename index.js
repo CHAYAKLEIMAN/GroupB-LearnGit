@@ -1,4 +1,4 @@
 let b ="kkk"
-function func(){
+function f(){
     
 }
