@@ -1,1 +1,4 @@
-let b ="kkk"
+
+function func(){
+    let b ="kkk"
+}
